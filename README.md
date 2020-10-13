@@ -25,7 +25,7 @@ whalewalls
 
 [Moonfinder](https://etherscan.io/address/0xb2d373e1fb97f44aa10595cdd6f850499d6257f6#tokentxns)
 
-[Moonfinder2](https://etherscan.io/address/0xb2d373e1fb97f44aa10595cdd6f850499d6257f6#tokentxns)
+[Moonfinder2](https://etherscan.io/address/0xebc3c19ae48978822d00ebb4b8532d2ec0e07598#tokentxns)
 
 [Unigems](https://etherscan.io/address/0xbcd9de9457bc37a711433c537c7d558f8d629c46#tokentxns)
 
