@@ -23,9 +23,9 @@ whalewalls
 
 [Narendra](https://etherscan.io/address/0xbfe663805129915942980bc86bd832ab031bb2f9#tokentxns)
 
-[Moonfinder](https://etherscan.io/address/0x49223c6cff43e58976eac7667610b698f9ad9882#tokentxns)
+[Moonfinder](https://etherscan.io/address/0xb2d373e1fb97f44aa10595cdd6f850499d6257f6#tokentxns)
 
-[Moonfinder2](https://etherscan.io/address/0x3c7d14db18e359906e6496a6378c46f16e813b66#tokentxns)
+[Moonfinder2](https://etherscan.io/address/0xb2d373e1fb97f44aa10595cdd6f850499d6257f6#tokentxns)
 
 [Unigems](https://etherscan.io/address/0xbcd9de9457bc37a711433c537c7d558f8d629c46#tokentxns)
 
